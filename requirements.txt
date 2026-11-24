@@ -1,0 +1,12 @@
+# Test edilen sürümler (Python 3.12 / 3.13, OpenJDK 17 / 21)
+pyspark==3.5.8
+graphframes-py==0.12.3
+kafka-python==3.0.13
+pyarrow==26.0.1
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.2
+jupyterlab==4.6.6
+ipykernel==7.4.0
+nbconvert==7.17.2
+setuptools==84.0.0      # Python ≥3.12: pyspark.ml hâlâ distutils import ediyor

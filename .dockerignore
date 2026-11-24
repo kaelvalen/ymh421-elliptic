@@ -1,0 +1,7 @@
+data/
+checkpoints/
+models/
+.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+.git/
